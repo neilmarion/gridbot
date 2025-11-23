@@ -10,6 +10,17 @@ This project includes:
 
 ---
 
+## 📥 Cloning the Repository
+
+Clone the project using:
+
+```bash
+git clone git@github.com:neilmarion/gridbot.git
+cd gridbot
+```
+
+---
+
 ## 🚀 Requirements
 
 - Ruby **3.0 or later**
