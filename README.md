@@ -51,7 +51,7 @@ This application reads commands from STDIN.
 # Option 1 — Run interactively
 
 ```
-ruby gridbot.rb
+ruby command_processor.rb
 ```
 
 Then manually type commands, e.g.:
